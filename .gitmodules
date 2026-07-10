@@ -5,3 +5,7 @@
 [submodule "craftgrn"]
 	path = craftgrn
 	url = https://github.com/oncologylab/craftgrn
+[submodule "enrichly"]
+	path = enrichly
+	url = https://github.com/oncologylab/enrichly
+	registered = false
